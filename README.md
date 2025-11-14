@@ -123,7 +123,7 @@ The `example.ipynb` notebook demonstrates the following workflow:
 
 #### 9. **Visualization** (Cell 15)
 - Plots membrane potential, gating variables, and spike raster
-- Saves the figure as `teste.png`
+- Saves the figure as `test.png`
 
 ## Project Structure
 
