@@ -111,15 +111,15 @@ The `example.ipynb` notebook demonstrates the following workflow:
 
 #### 6. **Population and Stimulation** (Cells 11-12)
 - Creates a population of 100 motoneurons
-- Injects a DC current (2000 pA) into the dendrites for 1000 ms
+- Injects a DC current (200 nA) into the dendrites for 100 ms
 
 #### 7. **Recording** (Cell 13)
 - Records spike times for all neurons
-- Records membrane potential at soma and dendrite for neurons 0-1
-- Records gating variables (m, h, n, p) at the soma for neurons 0-1
+- Records membrane potential at soma and dendrite for neurons 0 and 50
+- Records gating variables (m, h, n, p) at the soma for neurons 0 and 50
 
 #### 8. **Simulation** (Cell 14)
-- Runs the simulation for 1000 ms
+- Runs the simulation for 100 ms
 
 #### 9. **Visualization** (Cell 15)
 - Plots membrane potential, gating variables, and spike raster
