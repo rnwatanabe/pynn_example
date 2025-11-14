@@ -192,7 +192,9 @@ If you encounter issues with NMODL compilation, ensure that:
 
 If you get import errors, make sure you've activated the virtual environment or use `uv run` to execute commands.
 
+## License
 
+This project is licensed under the GNU General Public  License.
 
 ## Contact
 
